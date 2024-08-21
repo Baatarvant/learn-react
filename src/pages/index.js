@@ -28,6 +28,31 @@ const skills = [
     name: "Javascrip",
     icon: <JavascriptIcon />,
   },
+  {
+    id: 6,
+    name: "Javascript",
+    icon: <JavascriptIcon />,
+  },
+  {
+    id: 7,
+    name: "Javascript",
+    icon: <JavascriptIcon />,
+  },
+  {
+    id: 8,
+    name: "Javascript",
+    icon: <JavascriptIcon />,
+  },
+  {
+    id: 9,
+    name: "Javascrip",
+    icon: <TypescriptIcon />,
+  },
+  {
+    id: 10,
+    name: "Javascrip",
+    icon: <JavascriptIcon />,
+  },
 ];
 
 export default function Home() {
